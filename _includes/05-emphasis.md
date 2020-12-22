@@ -2,7 +2,7 @@
 
 * Java :coffee:
 * C++
-* Oject Oriented Programming (OOP)
+* __Oject Oriented Programming (OOP)__
 * Basic Flutter
 * QLab
 * ETC Consoles 
